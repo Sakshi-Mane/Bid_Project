@@ -1,1 +1,1 @@
-# This is a Bidding Python Project.
+# This is the Bidding Python Project.
